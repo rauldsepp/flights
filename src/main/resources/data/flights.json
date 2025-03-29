@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-08-29T18:21:52",
+        "arrivalTime": "2025-08-29T22:21:52",
+        "price": 498.1,
+        "totalSeats": 134,
+        "availableSeats": 89
+    },
+    {
+        "id": 2,
+        "origin": "Tallinn",
+        "destination": "Berlin",
+        "departureTime": "2025-08-05T22:27:52",
+        "arrivalTime": "2025-08-06T05:27:52",
+        "price": 594.0,
+        "totalSeats": 248,
+        "availableSeats": 152
+    },
+    {
+        "id": 3,
+        "origin": "Tallinn",
+        "destination": "Rome",
+        "departureTime": "2025-07-28T07:52:52",
+        "arrivalTime": "2025-07-28T11:52:52",
+        "price": 193.8,
+        "totalSeats": 193,
+        "availableSeats": 100
+    },
+    {
+        "id": 4,
+        "origin": "Tallinn",
+        "destination": "Vienna",
+        "departureTime": "2025-12-05T01:06:52",
+        "arrivalTime": "2025-12-05T12:06:52",
+        "price": 638.4,
+        "totalSeats": 101,
+        "availableSeats": 98
+    },
+    {
+        "id": 5,
+        "origin": "Tallinn",
+        "destination": "Paris",
+        "departureTime": "2025-05-05T16:16:52",
+        "arrivalTime": "2025-05-05T21:16:52",
+        "price": 177.0,
+        "totalSeats": 158,
+        "availableSeats": 97
+    },
+    {
+        "id": 6,
+        "origin": "Tallinn",
+        "destination": "Lisbon",
+        "departureTime": "2025-04-08T11:13:52",
+        "arrivalTime": "2025-04-08T20:13:52",
+        "price": 157.7,
+        "totalSeats": 291,
+        "availableSeats": 21
+    },
+    {
+        "id": 7,
+        "origin": "Tallinn",
+        "destination": "Madrid",
+        "departureTime": "2025-08-27T05:12:52",
+        "arrivalTime": "2025-08-27T09:12:52",
+        "price": 423.3,
+        "totalSeats": 271,
+        "availableSeats": 203
+    },
+    {
+        "id": 8,
+        "origin": "Tallinn",
+        "destination": "Paris",
+        "departureTime": "2025-07-17T18:55:52",
+        "arrivalTime": "2025-07-18T05:55:52",
+        "price": 624.0,
+        "totalSeats": 228,
+        "availableSeats": 192
+    },
+    {
+        "id": 9,
+        "origin": "Tallinn",
+        "destination": "Vienna",
+        "departureTime": "2025-04-18T06:57:52",
+        "arrivalTime": "2025-04-18T12:57:52",
+        "price": 220.8,
+        "totalSeats": 239,
+        "availableSeats": 184
+    },
+    {
+        "id": 10,
+        "origin": "Tallinn",
+        "destination": "Lisbon",
+        "departureTime": "2025-07-20T22:23:52",
+        "arrivalTime": "2025-07-21T09:23:52",
+        "price": 302.4,
+        "totalSeats": 266,
+        "availableSeats": 170
+    },
+    {
+        "id": 11,
+        "origin": "Tallinn",
+        "destination": "Vienna",
+        "departureTime": "2025-05-29T07:57:52",
+        "arrivalTime": "2025-05-29T12:57:52",
+        "price": 246.0,
+        "totalSeats": 177,
+        "availableSeats": 92
+    },
+    {
+        "id": 12,
+        "origin": "Tallinn",
+        "destination": "Lisbon",
+        "departureTime": "2025-03-30T01:51:52",
+        "arrivalTime": "2025-03-30T10:51:52",
+        "price": 302.1,
+        "totalSeats": 271,
+        "availableSeats": 16
+    },
+    {
+        "id": 13,
+        "origin": "Tallinn",
+        "destination": "Rome",
+        "departureTime": "2025-04-17T12:12:52",
+        "arrivalTime": "2025-04-17T17:12:52",
+        "price": 285.0,
+        "totalSeats": 194,
+        "availableSeats": 73
+    },
+    {
+        "id": 14,
+        "origin": "Tallinn",
+        "destination": "Stockholm",
+        "departureTime": "2025-08-21T21:10:52",
+        "arrivalTime": "2025-08-22T07:10:52",
+        "price": 446.2,
+        "totalSeats": 280,
+        "availableSeats": 159
+    },
+    {
+        "id": 15,
+        "origin": "Tallinn",
+        "destination": "Paris",
+        "departureTime": "2025-12-14T21:50:52",
+        "arrivalTime": "2025-12-15T03:50:52",
+        "price": 271.7,
+        "totalSeats": 199,
+        "availableSeats": 58
+    },
+    {
+        "id": 16,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-06-09T23:50:52",
+        "arrivalTime": "2025-06-10T10:50:52",
+        "price": 525.0,
+        "totalSeats": 247,
+        "availableSeats": 183
+    },
+    {
+        "id": 17,
+        "origin": "Tallinn",
+        "destination": "Stockholm",
+        "departureTime": "2025-11-24T05:04:52",
+        "arrivalTime": "2025-11-24T14:04:52",
+        "price": 360.8,
+        "totalSeats": 117,
+        "availableSeats": 113
+    },
+    {
+        "id": 18,
+        "origin": "Tallinn",
+        "destination": "Lisbon",
+        "departureTime": "2025-12-03T07:52:52",
+        "arrivalTime": "2025-12-03T16:52:52",
+        "price": 138.6,
+        "totalSeats": 143,
+        "availableSeats": 143
+    },
+    {
+        "id": 19,
+        "origin": "Tallinn",
+        "destination": "Berlin",
+        "departureTime": "2025-04-21T04:20:52",
+        "arrivalTime": "2025-04-21T06:20:52",
+        "price": 111.6,
+        "totalSeats": 144,
+        "availableSeats": 123
+    },
+    {
+        "id": 20,
+        "origin": "Tallinn",
+        "destination": "Paris",
+        "departureTime": "2025-09-26T22:51:52",
+        "arrivalTime": "2025-09-27T06:51:52",
+        "price": 421.2,
+        "totalSeats": 197,
+        "availableSeats": 121
+    },
+    {
+        "id": 21,
+        "origin": "Tallinn",
+        "destination": "Oslo",
+        "departureTime": "2025-05-28T00:07:52",
+        "arrivalTime": "2025-05-28T09:07:52",
+        "price": 112.1,
+        "totalSeats": 143,
+        "availableSeats": 125
+    },
+    {
+        "id": 22,
+        "origin": "Tallinn",
+        "destination": "London",
+        "departureTime": "2025-04-01T06:43:52",
+        "arrivalTime": "2025-04-01T10:43:52",
+        "price": 448.8,
+        "totalSeats": 212,
+        "availableSeats": 8
+    },
+    {
+        "id": 23,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-08-29T22:26:52",
+        "arrivalTime": "2025-08-30T06:26:52",
+        "price": 415.8,
+        "totalSeats": 103,
+        "availableSeats": 50
+    },
+    {
+        "id": 24,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-11-14T20:25:52",
+        "arrivalTime": "2025-11-14T22:25:52",
+        "price": 252.0,
+        "totalSeats": 131,
+        "availableSeats": 53
+    },
+    {
+        "id": 25,
+        "origin": "Tallinn",
+        "destination": "Oslo",
+        "departureTime": "2025-06-15T17:49:52",
+        "arrivalTime": "2025-06-15T22:49:52",
+        "price": 450.0,
+        "totalSeats": 172,
+        "availableSeats": 150
+    },
+    {
+        "id": 26,
+        "origin": "Tallinn",
+        "destination": "Lisbon",
+        "departureTime": "2025-08-15T06:44:52",
+        "arrivalTime": "2025-08-15T10:44:52",
+        "price": 323.0,
+        "totalSeats": 300,
+        "availableSeats": 162
+    },
+    {
+        "id": 27,
+        "origin": "Tallinn",
+        "destination": "Vienna",
+        "departureTime": "2025-07-12T22:58:52",
+        "arrivalTime": "2025-07-13T00:58:52",
+        "price": 403.5,
+        "totalSeats": 161,
+        "availableSeats": 89
+    },
+    {
+        "id": 28,
+        "origin": "Tallinn",
+        "destination": "Madrid",
+        "departureTime": "2025-04-17T21:24:52",
+        "arrivalTime": "2025-04-18T05:24:52",
+        "price": 406.8,
+        "totalSeats": 209,
+        "availableSeats": 82
+    },
+    {
+        "id": 29,
+        "origin": "Tallinn",
+        "destination": "Rome",
+        "departureTime": "2025-06-18T16:19:52",
+        "arrivalTime": "2025-06-18T20:19:52",
+        "price": 124.6,
+        "totalSeats": 264,
+        "availableSeats": 190
+    },
+    {
+        "id": 30,
+        "origin": "Tallinn",
+        "destination": "Lisbon",
+        "departureTime": "2025-08-18T08:59:52",
+        "arrivalTime": "2025-08-18T17:59:52",
+        "price": 244.2,
+        "totalSeats": 163,
+        "availableSeats": 71
+    },
+    {
+        "id": 31,
+        "origin": "Tallinn",
+        "destination": "London",
+        "departureTime": "2025-07-03T19:32:52",
+        "arrivalTime": "2025-07-04T00:32:52",
+        "price": 250.2,
+        "totalSeats": 242,
+        "availableSeats": 177
+    },
+    {
+        "id": 32,
+        "origin": "Tallinn",
+        "destination": "Oslo",
+        "departureTime": "2025-05-14T07:43:52",
+        "arrivalTime": "2025-05-14T18:43:52",
+        "price": 176.4,
+        "totalSeats": 240,
+        "availableSeats": 209
+    },
+    {
+        "id": 33,
+        "origin": "Tallinn",
+        "destination": "Vienna",
+        "departureTime": "2025-12-08T06:04:52",
+        "arrivalTime": "2025-12-08T12:04:52",
+        "price": 359.1,
+        "totalSeats": 181,
+        "availableSeats": 136
+    },
+    {
+        "id": 34,
+        "origin": "Tallinn",
+        "destination": "Oslo",
+        "departureTime": "2025-07-28T18:36:52",
+        "arrivalTime": "2025-07-28T20:36:52",
+        "price": 336.0,
+        "totalSeats": 195,
+        "availableSeats": 68
+    },
+    {
+        "id": 35,
+        "origin": "Tallinn",
+        "destination": "Oslo",
+        "departureTime": "2025-04-23T16:57:52",
+        "arrivalTime": "2025-04-23T21:57:52",
+        "price": 150.0,
+        "totalSeats": 141,
+        "availableSeats": 113
+    },
+    {
+        "id": 36,
+        "origin": "Tallinn",
+        "destination": "Paris",
+        "departureTime": "2025-05-22T09:33:52",
+        "arrivalTime": "2025-05-22T15:33:52",
+        "price": 334.4,
+        "totalSeats": 180,
+        "availableSeats": 120
+    },
+    {
+        "id": 37,
+        "origin": "Tallinn",
+        "destination": "London",
+        "departureTime": "2025-09-05T16:58:52",
+        "arrivalTime": "2025-09-05T19:58:52",
+        "price": 263.9,
+        "totalSeats": 172,
+        "availableSeats": 169
+    },
+    {
+        "id": 38,
+        "origin": "Tallinn",
+        "destination": "Paris",
+        "departureTime": "2025-08-15T03:05:52",
+        "arrivalTime": "2025-08-15T08:05:52",
+        "price": 405.0,
+        "totalSeats": 215,
+        "availableSeats": 98
+    },
+    {
+        "id": 39,
+        "origin": "Tallinn",
+        "destination": "Stockholm",
+        "departureTime": "2025-10-20T09:46:52",
+        "arrivalTime": "2025-10-20T12:46:52",
+        "price": 169.0,
+        "totalSeats": 150,
+        "availableSeats": 94
+    },
+    {
+        "id": 40,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-05-25T15:29:52",
+        "arrivalTime": "2025-05-25T17:29:52",
+        "price": 297.0,
+        "totalSeats": 200,
+        "availableSeats": 51
+    },
+    {
+        "id": 41,
+        "origin": "Tallinn",
+        "destination": "Madrid",
+        "departureTime": "2025-04-15T20:20:52",
+        "arrivalTime": "2025-04-16T03:20:52",
+        "price": 426.7,
+        "totalSeats": 135,
+        "availableSeats": 56
+    },
+    {
+        "id": 42,
+        "origin": "Tallinn",
+        "destination": "London",
+        "departureTime": "2025-04-20T01:36:52",
+        "arrivalTime": "2025-04-20T06:36:52",
+        "price": 279.0,
+        "totalSeats": 283,
+        "availableSeats": 136
+    },
+    {
+        "id": 43,
+        "origin": "Tallinn",
+        "destination": "London",
+        "departureTime": "2025-05-07T16:30:52",
+        "arrivalTime": "2025-05-08T02:30:52",
+        "price": 316.0,
+        "totalSeats": 154,
+        "availableSeats": 125
+    },
+    {
+        "id": 44,
+        "origin": "Tallinn",
+        "destination": "Paris",
+        "departureTime": "2025-05-17T08:32:52",
+        "arrivalTime": "2025-05-17T12:32:52",
+        "price": 264.6,
+        "totalSeats": 261,
+        "availableSeats": 125
+    },
+    {
+        "id": 45,
+        "origin": "Tallinn",
+        "destination": "Oslo",
+        "departureTime": "2025-10-16T06:23:52",
+        "arrivalTime": "2025-10-16T13:23:52",
+        "price": 243.1,
+        "totalSeats": 193,
+        "availableSeats": 175
+    },
+    {
+        "id": 46,
+        "origin": "Tallinn",
+        "destination": "Paris",
+        "departureTime": "2025-06-16T09:49:52",
+        "arrivalTime": "2025-06-16T18:49:52",
+        "price": 146.3,
+        "totalSeats": 152,
+        "availableSeats": 110
+    },
+    {
+        "id": 47,
+        "origin": "Tallinn",
+        "destination": "Vienna",
+        "departureTime": "2025-08-28T12:10:52",
+        "arrivalTime": "2025-08-28T18:10:52",
+        "price": 174.8,
+        "totalSeats": 167,
+        "availableSeats": 87
+    },
+    {
+        "id": 48,
+        "origin": "Tallinn",
+        "destination": "London",
+        "departureTime": "2025-06-29T15:54:52",
+        "arrivalTime": "2025-06-29T20:54:52",
+        "price": 148.5,
+        "totalSeats": 214,
+        "availableSeats": 101
+    },
+    {
+        "id": 49,
+        "origin": "Tallinn",
+        "destination": "Rome",
+        "departureTime": "2025-04-13T17:03:52",
+        "arrivalTime": "2025-04-14T01:03:52",
+        "price": 306.0,
+        "totalSeats": 207,
+        "availableSeats": 114
+    },
+    {
+        "id": 50,
+        "origin": "Tallinn",
+        "destination": "Oslo",
+        "departureTime": "2025-05-14T15:40:52",
+        "arrivalTime": "2025-05-15T00:40:52",
+        "price": 159.6,
+        "totalSeats": 144,
+        "availableSeats": 105
+    },
+    {
+        "id": 51,
+        "origin": "Tallinn",
+        "destination": "Berlin",
+        "departureTime": "2025-11-07T02:28:52",
+        "arrivalTime": "2025-11-07T10:28:52",
+        "price": 383.4,
+        "totalSeats": 182,
+        "availableSeats": 160
+    },
+    {
+        "id": 52,
+        "origin": "Tallinn",
+        "destination": "Stockholm",
+        "departureTime": "2025-04-06T06:36:52",
+        "arrivalTime": "2025-04-06T15:36:52",
+        "price": 349.6,
+        "totalSeats": 231,
+        "availableSeats": 26
+    },
+    {
+        "id": 53,
+        "origin": "Tallinn",
+        "destination": "Rome",
+        "departureTime": "2025-04-10T22:41:52",
+        "arrivalTime": "2025-04-11T01:41:52",
+        "price": 328.9,
+        "totalSeats": 187,
+        "availableSeats": 26
+    },
+    {
+        "id": 54,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-08-31T09:59:52",
+        "arrivalTime": "2025-08-31T16:59:52",
+        "price": 160.0,
+        "totalSeats": 209,
+        "availableSeats": 116
+    },
+    {
+        "id": 55,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-07-14T05:10:52",
+        "arrivalTime": "2025-07-14T10:10:52",
+        "price": 311.4,
+        "totalSeats": 235,
+        "availableSeats": 226
+    },
+    {
+        "id": 56,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-05-06T07:22:52",
+        "arrivalTime": "2025-05-06T12:22:52",
+        "price": 205.5,
+        "totalSeats": 171,
+        "availableSeats": 129
+    },
+    {
+        "id": 57,
+        "origin": "Tallinn",
+        "destination": "Lisbon",
+        "departureTime": "2025-05-03T23:32:52",
+        "arrivalTime": "2025-05-04T07:32:52",
+        "price": 421.2,
+        "totalSeats": 121,
+        "availableSeats": 62
+    },
+    {
+        "id": 58,
+        "origin": "Tallinn",
+        "destination": "Madrid",
+        "departureTime": "2025-06-02T19:41:52",
+        "arrivalTime": "2025-06-03T06:41:52",
+        "price": 539.7,
+        "totalSeats": 131,
+        "availableSeats": 90
+    },
+    {
+        "id": 59,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-12-11T01:41:52",
+        "arrivalTime": "2025-12-11T03:41:52",
+        "price": 403.5,
+        "totalSeats": 290,
+        "availableSeats": 65
+    },
+    {
+        "id": 60,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-08-22T19:05:52",
+        "arrivalTime": "2025-08-22T22:05:52",
+        "price": 436.8,
+        "totalSeats": 300,
+        "availableSeats": 225
+    },
+    {
+        "id": 61,
+        "origin": "Tallinn",
+        "destination": "Rome",
+        "departureTime": "2025-05-20T21:48:52",
+        "arrivalTime": "2025-05-21T02:48:52",
+        "price": 286.5,
+        "totalSeats": 296,
+        "availableSeats": 218
+    },
+    {
+        "id": 62,
+        "origin": "Tallinn",
+        "destination": "Rome",
+        "departureTime": "2025-09-02T03:29:52",
+        "arrivalTime": "2025-09-02T08:29:52",
+        "price": 117.0,
+        "totalSeats": 248,
+        "availableSeats": 212
+    },
+    {
+        "id": 63,
+        "origin": "Tallinn",
+        "destination": "Paris",
+        "departureTime": "2025-12-01T14:24:52",
+        "arrivalTime": "2025-12-02T01:24:52",
+        "price": 369.6,
+        "totalSeats": 269,
+        "availableSeats": 205
+    },
+    {
+        "id": 64,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-07-22T08:03:52",
+        "arrivalTime": "2025-07-22T12:03:52",
+        "price": 391.0,
+        "totalSeats": 207,
+        "availableSeats": 179
+    },
+    {
+        "id": 65,
+        "origin": "Tallinn",
+        "destination": "Berlin",
+        "departureTime": "2025-07-12T11:17:52",
+        "arrivalTime": "2025-07-12T19:17:52",
+        "price": 619.5,
+        "totalSeats": 266,
+        "availableSeats": 161
+    },
+    {
+        "id": 66,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-08-30T01:23:52",
+        "arrivalTime": "2025-08-30T08:23:52",
+        "price": 284.0,
+        "totalSeats": 150,
+        "availableSeats": 74
+    },
+    {
+        "id": 67,
+        "origin": "Tallinn",
+        "destination": "Stockholm",
+        "departureTime": "2025-09-29T13:56:52",
+        "arrivalTime": "2025-09-29T19:56:52",
+        "price": 428.8,
+        "totalSeats": 177,
+        "availableSeats": 104
+    },
+    {
+        "id": 68,
+        "origin": "Tallinn",
+        "destination": "Berlin",
+        "departureTime": "2025-05-30T05:59:52",
+        "arrivalTime": "2025-05-30T13:59:52",
+        "price": 275.4,
+        "totalSeats": 215,
+        "availableSeats": 73
+    },
+    {
+        "id": 69,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-10-11T04:35:52",
+        "arrivalTime": "2025-10-11T08:35:52",
+        "price": 172.2,
+        "totalSeats": 170,
+        "availableSeats": 143
+    },
+    {
+        "id": 70,
+        "origin": "Tallinn",
+        "destination": "London",
+        "departureTime": "2025-10-11T17:07:52",
+        "arrivalTime": "2025-10-11T23:07:52",
+        "price": 262.4,
+        "totalSeats": 115,
+        "availableSeats": 101
+    },
+    {
+        "id": 71,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-12-09T13:44:52",
+        "arrivalTime": "2025-12-09T15:44:52",
+        "price": 229.5,
+        "totalSeats": 128,
+        "availableSeats": 71
+    },
+    {
+        "id": 72,
+        "origin": "Tallinn",
+        "destination": "Madrid",
+        "departureTime": "2025-11-22T07:16:52",
+        "arrivalTime": "2025-11-22T12:16:52",
+        "price": 301.5,
+        "totalSeats": 183,
+        "availableSeats": 177
+    },
+    {
+        "id": 73,
+        "origin": "Tallinn",
+        "destination": "Oslo",
+        "departureTime": "2025-04-11T17:52:52",
+        "arrivalTime": "2025-04-11T21:52:52",
+        "price": 280.0,
+        "totalSeats": 286,
+        "availableSeats": 31
+    },
+    {
+        "id": 74,
+        "origin": "Tallinn",
+        "destination": "Lisbon",
+        "departureTime": "2025-07-30T04:48:52",
+        "arrivalTime": "2025-07-30T06:48:52",
+        "price": 418.5,
+        "totalSeats": 131,
+        "availableSeats": 61
+    },
+    {
+        "id": 75,
+        "origin": "Tallinn",
+        "destination": "Oslo",
+        "departureTime": "2025-10-16T02:41:52",
+        "arrivalTime": "2025-10-16T08:41:52",
+        "price": 422.4,
+        "totalSeats": 118,
+        "availableSeats": 53
+    },
+    {
+        "id": 76,
+        "origin": "Tallinn",
+        "destination": "London",
+        "departureTime": "2025-11-17T22:13:52",
+        "arrivalTime": "2025-11-18T04:13:52",
+        "price": 148.8,
+        "totalSeats": 173,
+        "availableSeats": 129
+    },
+    {
+        "id": 77,
+        "origin": "Tallinn",
+        "destination": "Rome",
+        "departureTime": "2025-08-30T13:17:52",
+        "arrivalTime": "2025-08-30T19:17:52",
+        "price": 433.2,
+        "totalSeats": 218,
+        "availableSeats": 157
+    },
+    {
+        "id": 78,
+        "origin": "Tallinn",
+        "destination": "London",
+        "departureTime": "2025-11-08T20:10:52",
+        "arrivalTime": "2025-11-09T00:10:52",
+        "price": 343.0,
+        "totalSeats": 109,
+        "availableSeats": 52
+    },
+    {
+        "id": 79,
+        "origin": "Tallinn",
+        "destination": "Rome",
+        "departureTime": "2025-11-10T12:14:52",
+        "arrivalTime": "2025-11-10T15:14:52",
+        "price": 183.3,
+        "totalSeats": 117,
+        "availableSeats": 87
+    },
+    {
+        "id": 80,
+        "origin": "Tallinn",
+        "destination": "Oslo",
+        "departureTime": "2025-08-23T17:36:52",
+        "arrivalTime": "2025-08-24T03:36:52",
+        "price": 230.0,
+        "totalSeats": 225,
+        "availableSeats": 114
+    },
+    {
+        "id": 81,
+        "origin": "Tallinn",
+        "destination": "Vienna",
+        "departureTime": "2025-08-10T03:14:52",
+        "arrivalTime": "2025-08-10T07:14:52",
+        "price": 406.3,
+        "totalSeats": 173,
+        "availableSeats": 90
+    },
+    {
+        "id": 82,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-12-26T10:53:52",
+        "arrivalTime": "2025-12-26T17:53:52",
+        "price": 376.0,
+        "totalSeats": 216,
+        "availableSeats": 108
+    },
+    {
+        "id": 83,
+        "origin": "Tallinn",
+        "destination": "Madrid",
+        "departureTime": "2025-09-11T10:20:52",
+        "arrivalTime": "2025-09-11T15:20:52",
+        "price": 408.0,
+        "totalSeats": 213,
+        "availableSeats": 127
+    },
+    {
+        "id": 84,
+        "origin": "Tallinn",
+        "destination": "Oslo",
+        "departureTime": "2025-08-21T15:20:52",
+        "arrivalTime": "2025-08-21T17:20:52",
+        "price": 303.0,
+        "totalSeats": 135,
+        "availableSeats": 134
+    },
+    {
+        "id": 85,
+        "origin": "Tallinn",
+        "destination": "Stockholm",
+        "departureTime": "2025-04-03T16:11:52",
+        "arrivalTime": "2025-04-04T00:11:52",
+        "price": 475.2,
+        "totalSeats": 290,
+        "availableSeats": 31
+    },
+    {
+        "id": 86,
+        "origin": "Tallinn",
+        "destination": "Oslo",
+        "departureTime": "2025-10-03T10:35:52",
+        "arrivalTime": "2025-10-03T19:35:52",
+        "price": 484.5,
+        "totalSeats": 122,
+        "availableSeats": 111
+    },
+    {
+        "id": 87,
+        "origin": "Tallinn",
+        "destination": "London",
+        "departureTime": "2025-12-10T10:39:52",
+        "arrivalTime": "2025-12-10T14:39:52",
+        "price": 447.1,
+        "totalSeats": 184,
+        "availableSeats": 103
+    },
+    {
+        "id": 88,
+        "origin": "Tallinn",
+        "destination": "Lisbon",
+        "departureTime": "2025-06-05T03:06:52",
+        "arrivalTime": "2025-06-05T11:06:52",
+        "price": 108.0,
+        "totalSeats": 240,
+        "availableSeats": 108
+    },
+    {
+        "id": 89,
+        "origin": "Tallinn",
+        "destination": "Oslo",
+        "departureTime": "2025-10-05T15:02:52",
+        "arrivalTime": "2025-10-05T19:02:52",
+        "price": 102.2,
+        "totalSeats": 222,
+        "availableSeats": 222
+    },
+    {
+        "id": 90,
+        "origin": "Tallinn",
+        "destination": "Oslo",
+        "departureTime": "2025-09-22T15:25:52",
+        "arrivalTime": "2025-09-22T20:25:52",
+        "price": 100.5,
+        "totalSeats": 109,
+        "availableSeats": 76
+    },
+    {
+        "id": 91,
+        "origin": "Tallinn",
+        "destination": "Paris",
+        "departureTime": "2025-07-30T15:31:52",
+        "arrivalTime": "2025-07-30T22:31:52",
+        "price": 330.0,
+        "totalSeats": 284,
+        "availableSeats": 238
+    },
+    {
+        "id": 92,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-04-18T10:29:52",
+        "arrivalTime": "2025-04-18T15:29:52",
+        "price": 133.5,
+        "totalSeats": 155,
+        "availableSeats": 128
+    },
+    {
+        "id": 93,
+        "origin": "Tallinn",
+        "destination": "Madrid",
+        "departureTime": "2025-04-17T15:42:52",
+        "arrivalTime": "2025-04-17T19:42:52",
+        "price": 75.6,
+        "totalSeats": 143,
+        "availableSeats": 98
+    },
+    {
+        "id": 94,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-08-03T14:53:52",
+        "arrivalTime": "2025-08-03T20:53:52",
+        "price": 237.5,
+        "totalSeats": 235,
+        "availableSeats": 157
+    },
+    {
+        "id": 95,
+        "origin": "Tallinn",
+        "destination": "Vienna",
+        "departureTime": "2025-11-28T09:23:52",
+        "arrivalTime": "2025-11-28T15:23:52",
+        "price": 188.8,
+        "totalSeats": 267,
+        "availableSeats": 58
+    },
+    {
+        "id": 96,
+        "origin": "Tallinn",
+        "destination": "Berlin",
+        "departureTime": "2025-12-26T19:39:52",
+        "arrivalTime": "2025-12-26T23:39:52",
+        "price": 209.1,
+        "totalSeats": 235,
+        "availableSeats": 186
+    },
+    {
+        "id": 97,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-12-14T12:06:52",
+        "arrivalTime": "2025-12-14T17:06:52",
+        "price": 259.2,
+        "totalSeats": 193,
+        "availableSeats": 111
+    },
+    {
+        "id": 98,
+        "origin": "Tallinn",
+        "destination": "Helsinki",
+        "departureTime": "2025-05-04T03:17:52",
+        "arrivalTime": "2025-05-04T13:17:52",
+        "price": 314.0,
+        "totalSeats": 154,
+        "availableSeats": 99
+    },
+    {
+        "id": 99,
+        "origin": "Tallinn",
+        "destination": "Berlin",
+        "departureTime": "2025-05-07T02:58:52",
+        "arrivalTime": "2025-05-07T07:58:52",
+        "price": 157.5,
+        "totalSeats": 265,
+        "availableSeats": 69
+    },
+    {
+        "id": 100,
+        "origin": "Tallinn",
+        "destination": "Stockholm",
+        "departureTime": "2025-05-21T16:49:52",
+        "arrivalTime": "2025-05-21T21:49:52",
+        "price": 373.5,
+        "totalSeats": 237,
+        "availableSeats": 172
+    }
+]
